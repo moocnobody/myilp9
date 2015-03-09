@@ -18,3 +18,5 @@ import org.junit.runners.Suite.SuiteClasses;
         com.paracamplus.ilp9.compiler.test.CompilerTest.class,
 })
 public class WholeTestSuite {}
+
+// end of WholeTestSuite.java
